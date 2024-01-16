@@ -1,7 +1,4 @@
 import ReactAudioPlayer from "./components/ReactAudioPlayer";
-import ReactVideoPlayer from "./components/ReactVideoPlayer";
-import myVideo from "./assets/video/production_id_4629778 (2160p).mp4";
-import myVideo2 from "./assets/video/pexels-cottonbro-5473806 (2160p).mp4";
 function App() {
   return (
     <>
