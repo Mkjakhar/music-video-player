@@ -1,10 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 
 import { PauseIcon, PlayIcon } from "@heroicons/react/16/solid";
-import {
-  ArrowTopRightOnSquareIcon,
-  Square2StackIcon,
-} from "@heroicons/react/24/outline";
+import { ArrowTopRightOnSquareIcon } from "@heroicons/react/24/outline";
 interface ReactVideoPlayerProps {
   myVideo: string;
   videoPoster: string;
